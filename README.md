@@ -114,7 +114,7 @@ GhostRadar gives you a superpower: seeing what no one else can see in your conve
 </p>
 
 <p align="center">
-  <a href="https://ghostradar.xyz/privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://ghostradar.xyz/terms-of-service.html">Terms of Service</a>
+  <a href="https://ghostradar.lightmode.io/privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://ghostradar.lightmode.io/terms-of-service.html">Terms of Service</a>
 </p>
 
 <p align="center">
