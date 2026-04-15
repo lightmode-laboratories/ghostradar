@@ -71,13 +71,9 @@ All plans include a **50% discount** when billed yearly.
 
 | | Gen Z | Pro | Max |
 |---|:---:|:---:|:---:|
-| **Monthly** | $4/mo | $10/mo | — |
-| **Yearly** | $2/mo ($24/yr) | $5/mo ($60/yr) | $10/mo ($120/yr) |
-| **Lifetime** | — | $99 | $199 |
-
-<p align="center">
-  <a href="https://lightmode.gumroad.com/l/ghostradar_genz?recurrence=yearly"><strong>Get Gen Z</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://lightmode.gumroad.com/l/ghostradar_pro?recurrence=yearly"><strong>Get Pro</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://lightmode.gumroad.com/l/ghostradar_max"><strong>Get Max</strong></a>
-</p>
+| **Monthly** | [$4/mo](https://lightmode.gumroad.com/l/ghostradar_genz?recurrence=monthly) | [$10/mo](https://lightmode.gumroad.com/l/ghostradar_pro?recurrence=monthly) | — |
+| **Yearly** | [$2/mo ($24/yr)](https://lightmode.gumroad.com/l/ghostradar_genz?recurrence=yearly) | [$5/mo ($60/yr)](https://lightmode.gumroad.com/l/ghostradar_pro?recurrence=yearly) | [$10/mo ($120/yr)](https://lightmode.gumroad.com/l/ghostradar_max) |
+| **Lifetime** | — | [$99](https://lightmode.gumroad.com/l/ghostradar_pro_lifetime) | [$199](https://lightmode.gumroad.com/l/ghostradar_max_lifetime) |
 
 <br>
 
