@@ -65,18 +65,6 @@ GhostRadar uses local app data and chat exports. Everything is processed on your
 
 <br>
 
-## Pricing
-
-All plans include a **50% discount** when billed yearly.
-
-| | Gen Z | Pro | Max |
-|---|:---:|:---:|:---:|
-| **Monthly** | [$4/mo](https://lightmode.gumroad.com/l/ghostradar_genz?recurrence=monthly) | [$10/mo](https://lightmode.gumroad.com/l/ghostradar_pro?recurrence=monthly) | — |
-| **Yearly** | [$2/mo ($24/yr)](https://lightmode.gumroad.com/l/ghostradar_genz?recurrence=yearly) | [$5/mo ($60/yr)](https://lightmode.gumroad.com/l/ghostradar_pro?recurrence=yearly) | [$10/mo ($120/yr)](https://lightmode.gumroad.com/l/ghostradar_max) |
-| **Lifetime** | — | [$99](https://lightmode.gumroad.com/l/ghostradar_pro_lifetime) | [$199](https://lightmode.gumroad.com/l/ghostradar_max_lifetime) |
-
-<br>
-
 ## Download
 
 Requires **macOS 13.0** (Ventura) or later.
